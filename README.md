@@ -36,6 +36,7 @@ A sophisticated application engineered as a Progressive Web App (PWA), tailored 
 
 <div align="left">
   <h4>Languages & Core</h4>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -56,16 +57,42 @@ A sophisticated application engineered as a Progressive Web App (PWA), tailored 
   <h4>DevOps & Tools</h4>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
 </div>
 
 ---
 
-### GitHub Analytics
+### Engineering Analytics & Performance
+
+#### Algorithmic Proficiency (DSA)
+<div align="left">
+  <a href="https://leetcode.com/u/NaamRoshan/">
+    <img src="https://leetcode.card.workers.dev/?username=NaamRoshan&theme=radical&hide_border=true" alt="LeetCode Stats" />
+  </a>
+</div>
+
+#### GitHub Achievements
+<div align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=TheBinaryVision&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</div>
+
+#### Codebase Metrics & Version Control
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBinaryVision&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheBinaryVision&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheBinaryVision&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
+
+---
+
+### Current Technical Exploration
+*   Deepening knowledge in advanced C++ memory management and optimization techniques.
+*   Exploring progressive web app (PWA) enhancements, service worker lifecycles, and microservices architecture for scalable deployments.
 
 ---
 
@@ -78,10 +105,13 @@ A sophisticated application engineered as a Progressive Web App (PWA), tailored 
   <a href="https://twitter.com/TheBinaryVision"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 </div>
 
-### Current Venture
+#### Current Business Venture
 <div align="left">
   <a href="YOUR_PRASHI_CARE_LINK_HERE"><img src="https://img.shields.io/badge/Prashi_Care-20232A?style=for-the-badge&logo=instructure&logoColor=white" alt="Prashi Care" /></a>
 </div>
+
+<br/>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=TheBinaryVision&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitor Badge" />
 </div>
