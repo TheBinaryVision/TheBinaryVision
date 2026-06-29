@@ -1,14 +1,14 @@
 <div align="center">
   <h1>Roshan Vishwakarma | TheBinaryVision</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF5&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Specializing+in+MERN+Stack;Building+Scalable+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF5&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Building+Scalable+Web+Applications;Machine+Learning+%26+AI+Enthusiast;Digital+Creator+%26+Photographer;Cricket+Fanatic" alt="Typing SVG" />
 </div>
 
 <br/>
 
 ### Professional Summary
-I am a results-driven **Full-Stack Software Engineer** (B.Tech in Computer Science) with a strong foundation in modern web technologies. Specializing in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js), I focus on designing scalable architectures, developing intuitive user interfaces, and deploying robust full-stack applications.
+I am a dedicated **Software Engineer** (B.Tech in Computer Science) with robust programming fundamentals and a strong focus on **C++** and versatile **Web Development**. I specialize in solving complex algorithmic challenges and building scalable, user-centric web applications from the ground up. 
 
-Beyond writing clean, maintainable code, my leadership experience as a **Google Developer Group (GDG) Coordinator** and **Training & Placement Cell Secretary** has equipped me with excellent communication, mentoring, and agile project management skills. I am actively seeking opportunities at forward-thinking organizations where I can contribute to high-impact software solutions.
+My engineering approach is complemented by active leadership roles, including serving as a **Google Developer Group (GDG) Coordinator** and **Training & Placement Cell Secretary**. These experiences have honed my ability to manage technical projects, mentor peers, and collaborate effectively in agile environments. I am actively seeking opportunities at innovative tech firms where I can leverage my problem-solving skills to build high-impact software.
 
 ---
 
@@ -77,4 +77,9 @@ A sophisticated application engineered as a Progressive Web App (PWA), tailored 
   <a href="https://leetcode.com/u/NaamRoshan/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
   <a href="https://hackerrank.com/profile/BinaryVision"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
   <a href="https://twitter.com/TheBinaryVision"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+</div>
+
+### Current Venture
+<div align="left">
+  <a href="YOUR_PRASHI_CARE_LINK_HERE"><img src="https://img.shields.io/badge/Prashi_Care-20232A?style=for-the-badge&logo=instructure&logoColor=white" alt="Prashi Care" /></a>
 </div>
