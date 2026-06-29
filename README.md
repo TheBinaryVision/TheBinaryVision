@@ -69,22 +69,22 @@ A sophisticated application engineered as a Progressive Web App (PWA), tailored 
 #### Algorithmic Proficiency (DSA)
 <div align="left">
   <a href="https://leetcode.com/u/NaamRoshan/">
-    <img src="https://leetcode.card.workers.dev/?username=NaamRoshan&theme=radical&hide_border=true" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/NaamRoshan?theme=radical&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </div>
 
 #### GitHub Achievements
 <div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=TheBinaryVision&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TheBinaryVision&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </div>
 
 #### Codebase Metrics & Version Control
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBinaryVision&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=TheBinaryVision&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheBinaryVision&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=TheBinaryVision&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheBinaryVision&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
