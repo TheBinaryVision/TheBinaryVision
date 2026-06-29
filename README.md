@@ -82,3 +82,6 @@ A sophisticated application engineered as a Progressive Web App (PWA), tailored 
 <div align="left">
   <a href="YOUR_PRASHI_CARE_LINK_HERE"><img src="https://img.shields.io/badge/Prashi_Care-20232A?style=for-the-badge&logo=instructure&logoColor=white" alt="Prashi Care" /></a>
 </div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TheBinaryVision&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitor Badge" />
+</div>
